@@ -97,6 +97,12 @@ a:hover {
     margin: var(--spacing-sm) 0 var(--spacing-md);
 }
 
+hr {
+    height: 3px;
+    background-color: var(--primary-color);
+    margin: var(--spacing-lg) 0;
+}
+
 .center-btn {
     text-align: center;
     margin-top: var(--spacing-lg);
